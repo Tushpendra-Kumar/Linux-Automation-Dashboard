@@ -1,0 +1,2 @@
+Flask
+gunicorn # Used for deployment on live servers like Render/Vercel
