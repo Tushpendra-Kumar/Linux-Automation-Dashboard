@@ -1,3 +1,4 @@
+# Powered by CodeByTushu | Developed by Tushpendra Kumar | https://codebytushu.com
 # app.py
 
 from flask import Flask, render_template
